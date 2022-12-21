@@ -28,4 +28,6 @@ Below, you can find some indicative results from my research:
 
 Structural properties of chains grafted on solid surfaces
 
+![Field slice view](images/slice_and_clip.png "field_slice view")
+
 Thermodynamics of nanocomposite systems
