@@ -23,12 +23,13 @@ I am proficient and mostly write code in:
 - Numerical Analysis
 
 # Research Output
-- [Stucture and Thermodynamics of Grafted Silica/Polystyrene Dilute Nanocomposites Investigated through Self-Consistent Field Theory](https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00078k)
-- [Potential Of Mean Force between Bare or Grafted Silica/Polystyrene Surfaces from Self-Consistent Field Theory](https://www.mdpi.com/2073-4360/13/8/1197)
-- [RuSseL: A Self-Consistent Field Theory Code for Inhomogeneous Polymer Interphases](https://www.mdpi.com/2079-3197/9/5/57)
-- [A Three-Dimensional Finite Element Methodology for Addressing Heterogeneous Polymer Systems with Simulations Based on Self-Consistent Field Theory](https://aip.scitation.org/doi/abs/10.1063/5.0047729)
-- [Solvation Free Energy of Dilute Grafted (Nano)Particles in Polymer Melts via the Self-Consistent Field Theory](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.2c05306)
-- [Adressing Nanocomposite Systems via 3D-SCFT: Assessment of Smearing Approximation and Irregular Grafting Distributions](https://pubs.acs.org/doi/10.1021/acs.macromol.2c02474)
+- [Adressing Nanocomposite Systems via 3D-SCFT: Assessment of Smearing Approximation and Irregular Grafting Distributions (2023)](https://pubs.acs.org/doi/10.1021/acs.macromol.2c02474)
+- [Solvation Free Energy of Dilute Grafted (Nano)Particles in Polymer Melts via the Self-Consistent Field Theory (2022)](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.2c05306)
+- [RuSseL: A Self-Consistent Field Theory Code for Inhomogeneous Polymer Interphases (2021)](https://www.mdpi.com/2079-3197/9/5/57)
+- [Potential Of Mean Force between Bare or Grafted Silica/Polystyrene Surfaces from Self-Consistent Field Theory (2021)](https://www.mdpi.com/2073-4360/13/8/1197)
+- [Stucture and Thermodynamics of Grafted Silica/Polystyrene Dilute Nanocomposites Investigated through Self-Consistent Field Theory (2021)](https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00078k)
+- [A Three-Dimensional Finite Element Methodology for Addressing Heterogeneous Polymer Systems with Simulations Based on Self-Consistent Field Theory (2021)](https://aip.scitation.org/doi/abs/10.1063/5.0047729)
+- [Phenol Hydrodeoxygenation over a Reduced and Sulfided NiMo/gamma-Alumina Catalyst (2019)](https://pubs.acs.org/doi/10.1021/acs.iecr.8b06465)
 
 # Indicative Research Results
 Apologies, this section is under construction..
