@@ -1,7 +1,7 @@
 My name is Constantinos J. Revelas. Welcome to my GitHub webpage. 👋
 
 # Personal Info
-I am a Chemical Engineer and finishing PhD student in the field of Computational Materials Science.
+I am a Doctor of Chemical Engineering and Computational Materials Science.
 I am currently affiliated in the School of Chemical Engineering of the National Techical University of Athens.
 If interested, you can have a quick look at the website of my group, directed by Prof. Doros N. Theodorou: [CoMSE](https://comse.chemeng.ntua.gr/)
 
