@@ -1,12 +1,8 @@
 My name is Constantinos J. Revelas. Welcome to my GitHub webpage. 👋
 
 # Personal Info
-I am a Doctor of Chemical Engineering and Computational Materials Science.
-I am currently affiliated in the School of Chemical Engineering of the National Techical University of Athens.
-If interested, you can have a quick look at the website of my group, directed by Prof. Doros N. Theodorou: [CoMSE](https://comse.chemeng.ntua.gr/)
-
-I am also a software Engineer by training and enthusiast of high permormance computing, scientific computing and investigation of
-algorithm complexity.
+I am a Doctor of Chemical Engineering and Computational Materials Science. I am also a software Engineer by training and\
+enthusiast of high permormance computing, scientific computing and investigation of algorithm complexity.
 
 I am proficient and mostly write code in:
 
@@ -16,6 +12,14 @@ I am proficient and mostly write code in:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+I am mostly a Linux user where I have experience in system administration, job monitoring and bash scripting.\
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)\
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+
+In terms of parallel programming I use the MPI protocol for my own project and I also have some basic knowledge of CUDA, which I plan to extend in the future!
 
 # Interests/Background
 - Computational Polymer Physics
