@@ -7,10 +7,10 @@ enthusiast of high permormance computing, scientific computing and investigation
 I am proficient and mostly write code in:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)\
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 I am mostly a Linux user where I have experience in system administration, job monitoring and bash scripting.\
@@ -32,12 +32,12 @@ The frameworks/platforms, libraries and editors I am most familiar with and use 
 In terms of parallel programming I use the **MPI (Message-Passing Interface)** protocol for my own project and I also have some basic knowledge of **CUDA**, which I plan to extend in the future!
 
 # Interests/Background
-- Computational Polymer Physics
-- Design of Nanocomposite Materials
-- Investigation of Thermodynamic Properties of Polymer Grafted Nanoparticles (PGNs)
 - High Performance Computing
 - Scientific Computing
 - Numerical Analysis
+- Computational Polymer Physics
+- Design of Nanocomposite Materials
+- Investigation of Thermodynamic Properties of Polymer Grafted Nanoparticles (PGNs)
 
 # Research Output
 - [Adressing Nanocomposite Systems via 3D-SCFT: Assessment of Smearing Approximation and Irregular Grafting Distributions (2023)](https://pubs.acs.org/doi/10.1021/acs.macromol.2c02474)
