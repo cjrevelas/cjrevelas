@@ -32,6 +32,7 @@ The frameworks/platforms, libraries and editors I am most familiar with and use 
 In terms of parallel programming I use the **MPI (Message-Passing Interface)** protocol for my own project and I also have some basic knowledge of **CUDA**, which I plan to extend in the future!
 
 # Interests/Background
+- Maintenance and Development of Operating Systems
 - High Performance Computing
 - Scientific Computing
 - Numerical Analysis
@@ -40,6 +41,7 @@ In terms of parallel programming I use the **MPI (Message-Passing Interface)** p
 - Investigation of Thermodynamic Properties of Polymer Grafted Nanoparticles (PGNs)
 
 # Research Output
+- [Tailoring Nanoparticle Orientation in Polymer Matrices via Nonuniform Grafting: Implications for Nanoparticle Dispersions and Self-Assembled Nanocomposite Morphologies (2024)](https://pubs.acs.org/doi/10.1021/acsanm.4c03229)
 - [Adressing Nanocomposite Systems via 3D-SCFT: Assessment of Smearing Approximation and Irregular Grafting Distributions (2023)](https://pubs.acs.org/doi/10.1021/acs.macromol.2c02474)
 - [Solvation Free Energy of Dilute Grafted (Nano)Particles in Polymer Melts via the Self-Consistent Field Theory (2022)](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcb.2c05306)
 - [RuSseL: A Self-Consistent Field Theory Code for Inhomogeneous Polymer Interphases (2021)](https://www.mdpi.com/2079-3197/9/5/57)
