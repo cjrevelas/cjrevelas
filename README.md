@@ -1,8 +1,18 @@
 My name is Constantinos J. Revelas. Welcome to my GitHub webpage. 👋
 
 # Personal Info
-I am a Doctor of Chemical Engineering and Computational Materials Science. I am also a software Engineer by training and\
-enthusiast of high permormance computing, scientific computing and investigation of algorithm complexity.
+I am an experienced C/C++ Software Engineer with a strong background in scientific and high-performance computing.
+
+Currently, I am trained to develop low-level software for operating systems at Teracloud Greece Ltd., where my team\
+will be responsible for the modernization of the OpenVMS operating system.
+
+I hold a PhD in Computational Materials Science and Simulations from National Technical University of Athens. My research\
+was focused on the development (from scratch) of an in-house 3D finite-element code with a lot of potential for future\
+extensions. The code is used to solve partial differential equations in 3D domains for the investigation of thermodynamic\
+properties of polymer/solid interfaces.
+
+I also hold a Master of Engineering diploma in Chemical Engineering from the National Technical University of Athens,\
+where I managed to graduate with the second highest graduate score (9.54/10.0). 
 
 I am proficient and mostly write code in:
 
